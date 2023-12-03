@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+#atomic-blog
+## A react project solving the prop driling problem via using context API 
+###Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+###Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
